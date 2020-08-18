@@ -57,7 +57,7 @@ public class SudokuGame {
                 x = 40;
                 break;
             case 1:
-                x = 1;
+                x = 20;
                 break;
         }
         while (x > 0) {
